@@ -8,8 +8,8 @@ const _geist = Geist({ subsets: ["latin"] });
 const _geistMono = Geist_Mono({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: 'Collaborative Sheets - Real-time Spreadsheets',
-  description: 'Create, edit, and collaborate on spreadsheets in real-time with your team. Features formulas, real-time sync, and Google authentication.',
+  title: 'Harshita1803 Sheets - Real-time Spreadsheets',
+  description: 'Create, edit, and collaborate on spreadsheets in real-time by Harshita1803. Features formulas, real-time sync, and Google authentication.',
   generator: 'Harshita1803',
   icons: {
     icon: [

@@ -86,7 +86,7 @@ export function Dashboard() {
             <div className="flex h-8 w-8 items-center justify-center rounded-lg bg-primary/10">
               <TableIcon className="h-4 w-4 text-primary" />
             </div>
-            <span className="font-semibold text-foreground">Sheets</span>
+            <span className="font-semibold text-foreground">Harshita1803 Sheets</span>
           </div>
 
           <DropdownMenu>

@@ -30,10 +30,10 @@ export function LoginPage() {
             <TableIcon className="h-8 w-8 text-primary" />
           </div>
           <CardTitle className="text-2xl font-bold text-foreground">
-            Collaborative Sheets
+            Harshita1803 Sheets
           </CardTitle>
           <CardDescription className="text-muted-foreground">
-            Real-time spreadsheets for teams. Create, edit, and collaborate with your team.
+            Real-time spreadsheets by Harshita1803. Create, edit, and collaborate with your team.
           </CardDescription>
         </CardHeader>
         <CardContent className="flex flex-col gap-4">
